@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "aws-xray-sdk": "3.3.4"
+    "aws-xray-sdk": "3.4.1"
   }
 }
